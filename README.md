@@ -36,7 +36,7 @@ Teammates: Cherin Lee, Manas Subbaraman, and Sarah Zhao
 
 ### [BookMe](https://github.com/hatcheta1/book-me)
 
-BookMe is an app where clients can search for and book appointments and service providers (such as hair stylists) can manage appointments through their business profile.
+Built in Ruby on Rails, BookMe is an app where clients can search for and book appointments and service providers (such as hair stylists) can manage appointments through their business profile.
 
 Tools and technologies:
 ![Ruby on Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
