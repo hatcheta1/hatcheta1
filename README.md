@@ -34,6 +34,14 @@ Teammates: Cherin Lee, Manas Subbaraman, and Sarah Zhao
 
 <img width="1877" height="856" alt="image" src="https://github.com/user-attachments/assets/92387070-8fa4-42d8-b717-94d605ff0218" />
 
+### [BookMe](https://github.com/hatcheta1/book-me)
+
+BookMe is an app where clients can search for and book appointments and service providers (such as hair stylists) can manage appointments through their business profile.
+
+Tools and technologies:
+![Ruby on Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ### [Queer Motherland Website](https://queermotherland.org/)
 
 Using Ruby on Rails, I built the website for Queer Motherland, a Texas-based nonprofit organization that aims to uplift Black, queer people across the diaspora through education and community-building. This website holds information about the organization's mission and programs for Queer Motherland's 14.7k Instagram followers, and those who encounter them at events.
