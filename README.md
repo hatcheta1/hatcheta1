@@ -42,15 +42,13 @@ Tools and technologies:
 ![Ruby on Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### [Queer Motherland Website](https://queermotherland.org/)
+### [Queer Motherland Website](https://github.com/hatcheta1/queer-motherland)
 
-Using Ruby on Rails, I built the website for Queer Motherland, a Texas-based nonprofit organization that aims to uplift Black, queer people across the diaspora through education and community-building. This website holds information about the organization's mission and programs for Queer Motherland's 14.7k Instagram followers, and those who encounter them at events.
+Using Ruby on Rails, I built the initial website for Queer Motherland, a Texas-based nonprofit organization that aims to uplift Black, queer people across the diaspora through education and community-building. This website holds information about the organization's mission and programs for Queer Motherland's 14.7k Instagram followers, and those who encounter them at events.
 
 Tools and technologies:
 ![Ruby on Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-[Source code](https://github.com/hatcheta1/queer-motherland)
 
 ---
 
